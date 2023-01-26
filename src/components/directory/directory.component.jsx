@@ -6,27 +6,27 @@ const Directory = () => {
         {
           "id": 1,
           "title": "Hats",
-          "imageUrl": "https://i.ibb.co/cvpntL1/hats.png"
+          "imageUrl": "https://images.pexels.com/photos/1878821/pexels-photo-1878821.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         {
           "id": 2,
           "title": "Jackets",
-          "imageUrl": "https://i.ibb.co/px2tCc3/jackets.png"
+          "imageUrl": "https://images.pexels.com/photos/7679798/pexels-photo-7679798.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         {
           "id": 3,
           "title": "Sneakers",
-          "imageUrl": "https://i.ibb.co/0jqHpnp/sneakers.png"
+          "imageUrl": "https://images.pexels.com/photos/1032110/pexels-photo-1032110.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         {
           "id": 4,
           "title": "Womens",
-          "imageUrl": "https://i.ibb.co/GCCdy8t/womens.png"
+          "imageUrl": "https://images.pexels.com/photos/1852382/pexels-photo-1852382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         },
         {
           "id": 5,
           "title": "Mens",
-          "imageUrl": "https://i.ibb.co/R70vBrQ/men.png"
+          "imageUrl": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
         }
       ]
     
